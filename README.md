@@ -96,7 +96,7 @@ Might want to create a .prettierignore file and add .eslintrc.js (json/yaml) fil
 
 ## References
 
-- [VSCode ESLint, Prettier & Airbnb Style Guide Setup, Tutorial by Traversey Media](https://www.youtube.com/watch?v=SydnKbGc7W8)
+- [VSCode ESLint, Prettier & Airbnb Style Guide Setup, Tutorial by Traversy Media](https://www.youtube.com/watch?v=SydnKbGc7W8)
 - [ESLint plugin page](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier plugin page](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ESLint Getting Started](https://eslint.org/docs/user-guide/getting-started)
