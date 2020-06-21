@@ -19,6 +19,7 @@ ESLint uses the ESLint library **installed in the opened workspace folder**. If 
 Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
 1.  Install Prettier plugin.
+
     `ext install esbenp.prettier-vscode`
 
 2.  Configure Prettier global settings. Open File -> Preferences -> Settings (hotkey - `Ctrl + ,`).
