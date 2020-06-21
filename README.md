@@ -21,8 +21,7 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 1.  Install Prettier plugin.
     `ext install esbenp.prettier-vscode`
 
-2.  Configure Prettier global settings:
-    `Ctrl + ,`
+2.  Configure Prettier global settings. Open File -> Preferences -> Settings (hotkey - `Ctrl + ,`).
 
     - search for default formatter and set it to esbenp.prettier-vscode
     - enable 'Format on save'
@@ -62,7 +61,7 @@ There's no need to set up a configuration file for Prettier. If present, it will
 
 ### ESLint
 
-1. Press Ctrl + Shift + P and find 'ESLint: Create ESLint configuration'. Run the command.
+1. Press Ctrl + Shift + P to open Command Palette and find 'ESLint: Create ESLint configuration'. Run the command.
 
 2. There will a bunch prompt questions. Answer as required for the project.
 
