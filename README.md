@@ -2,7 +2,7 @@
 
 ## ESLint and Prettier plugins for VS Code
 
-ESLint uses the ESLint library **installed in the opened workspace folder**. If the folder doesn't provide one the extension looks for a global install version. If you haven't installed ESLint either locally or globally do so by running npm install eslint in the workspace folder for a local install or npm install -g eslint for a global install.
+ESLint uses the ESLint library **installed in the opened workspace folder**. If the folder doesn't provide one the extension looks for a global install version.
 
 1. Install ESLint plugin.
 
@@ -101,5 +101,5 @@ Might want to create a .prettierignore file and add .eslintrc.js (json/yaml) fil
 - [Prettier plugin page](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ESLint Getting Started](https://eslint.org/docs/user-guide/getting-started)
 - [eslint-config-airbnb package](https://www.npmjs.com/package/eslint-config-airbnb)
-- [ESLint rules](https://eslint.org/docs/rules/).
+- [ESLint rules](https://eslint.org/docs/rules/)
 - [Prettier rules](https://prettier.io/docs/en/options.html)
