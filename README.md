@@ -34,7 +34,7 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 
    `npm init`
 
-2. Install dev dependencies. **esling-plugin-prettier** - runs Prettier as an ESLint rule and reports differences as individual ESLint issues. **esling-config-prettier** - turns off all rules that are unnecessary or might conflict with Prettier.
+2. Install dev dependencies. **eslint-plugin-prettier** - runs Prettier as an ESLint rule and reports differences as individual ESLint issues. **eslint-config-prettier** - turns off all rules that are unnecessary or might conflict with Prettier.
 
    `npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier`
 
